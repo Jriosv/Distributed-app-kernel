@@ -1,0 +1,41 @@
+
+[REGISTER](03/06/2022, 07:04:20) source:files destination:kernel message:OK
+[REGISTER](03/06/2022, 07:04:20) source:apps destination:kernel message:OK
+[STOP](03/06/2022, 07:04:55) source:kernel destination:all message:finish the execution
+[REGISTER](03/06/2022, 07:05:39) source:files destination:kernel message:OK
+[REGISTER](03/06/2022, 07:05:39) source:apps destination:kernel message:OK
+[INIT](03/06/2022, 07:05:43) source:gui destination:apps message:app1
+[CLOSE](03/06/2022, 07:05:47) source:gui destination:apps message:app1
+[INIT](03/06/2022, 07:05:47) source:gui destination:apps message:app1
+[CLOSE](03/06/2022, 07:05:48) source:gui destination:apps message:app1
+[INIT](03/06/2022, 07:05:48) source:gui destination:apps message:app1
+[CLOSE](03/06/2022, 07:05:49) source:gui destination:apps message:app1
+[INIT](03/06/2022, 07:05:54) source:gui destination:apps message:app2
+[CLOSE](03/06/2022, 07:05:55) source:gui destination:apps message:app2
+[INIT](03/06/2022, 07:05:56) source:gui destination:apps message:app2
+[CLOSE](03/06/2022, 07:05:57) source:gui destination:apps message:app2
+[INIT](03/06/2022, 07:05:58) source:gui destination:apps message:app2
+[CLOSE](03/06/2022, 07:06:02) source:gui destination:apps message:app2
+[INIT](03/06/2022, 07:06:02) source:gui destination:apps message:app3
+[CLOSE](03/06/2022, 07:06:08) source:gui destination:apps message:app3
+[INIT](03/06/2022, 07:06:08) source:gui destination:apps message:app3
+[CLOSE](03/06/2022, 07:06:23) source:gui destination:apps message:app3
+[INIT](03/06/2022, 07:06:31) source:gui destination:apps message:app1
+[INFO](03/06/2022, 07:06:52) source:gui destination:apps message:11556
+[ANSWER](03/06/2022, 07:06:52) source:apps destination:gui message:notepad.exe running
+[INFO](03/06/2022, 07:07:14) source:gui destination:apps message:6616
+[ANSWER](03/06/2022, 07:07:14) source:apps destination:gui message:postgres.exe running
+[INIT](03/06/2022, 07:07:19) source:gui destination:apps message:app2
+[CLOSE](03/06/2022, 07:07:19) source:gui destination:apps message:app2
+[INIT](03/06/2022, 07:07:20) source:gui destination:apps message:app2
+[CLOSE](03/06/2022, 07:07:21) source:gui destination:apps message:app2
+[CLOSE](03/06/2022, 07:07:21) source:gui destination:apps message:app1
+[CREATE](03/06/2022, 07:08:09) source:gui destination:files message:hola mundo
+[CREATE](03/06/2022, 07:08:22) source:gui destination:files message:prueba final
+[DELETE](03/06/2022, 07:08:36) source:gui destination:files message:prueba final
+[REGISTER](03/06/2022, 07:10:58) source:files destination:kernel message:OK
+[INFO](03/06/2022, 07:15:54) source:gui destination:apps message:20444
+[ANSWER](03/06/2022, 07:15:54) source:apps destination:gui message:POWERPNT.EXE running
+[INFO](03/06/2022, 07:16:07) source:gui destination:apps message:132
+[ANSWER](03/06/2022, 07:16:07) source:apps destination:gui message:Registry running
+[INFO](03/06/2022, 07:16:17) source:gui destination:apps message:8525

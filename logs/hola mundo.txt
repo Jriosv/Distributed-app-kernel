@@ -1,0 +1,9 @@
+
+[CREATE](03/06/2022, 07:08:22) source:gui destination:files message:prueba final
+[DELETE](03/06/2022, 07:08:36) source:gui destination:files message:prueba final
+[REGISTER](03/06/2022, 07:10:58) source:files destination:kernel message:OK
+[INFO](03/06/2022, 07:15:54) source:gui destination:apps message:20444
+[ANSWER](03/06/2022, 07:15:54) source:apps destination:gui message:POWERPNT.EXE running
+[INFO](03/06/2022, 07:16:07) source:gui destination:apps message:132
+[ANSWER](03/06/2022, 07:16:07) source:apps destination:gui message:Registry running
+[INFO](03/06/2022, 07:16:17) source:gui destination:apps message:8525
