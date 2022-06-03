@@ -1,0 +1,9 @@
+
+[INFO](02/06/2022, 23:35:44) source:gui destination:app1 message:5252
+[INIT](02/06/2022, 23:37:47) source:gui destination:apps message:app1
+[INFO](02/06/2022, 23:38:11) source:gui destination:apps message:15364
+[ANSWER](02/06/2022, 23:38:11) source:apps destination:gui message:notepad.exe running
+[INIT](02/06/2022, 23:38:18) source:gui destination:apps message:app3
+[CLOSE](02/06/2022, 23:39:05) source:gui destination:apps message:app3
+[INIT](02/06/2022, 23:39:16) source:gui destination:apps message:app3
+[CLOSE](02/06/2022, 23:39:17) source:gui destination:apps message:app3
